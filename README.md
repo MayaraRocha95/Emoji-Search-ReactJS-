@@ -6,5 +6,5 @@ Emoji Search App Using React JS
 ### Technologies used
  - HTML5 
  - CSS 
- - JavaScript
+ - ReactJs
 
