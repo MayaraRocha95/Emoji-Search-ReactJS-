@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=DM+Sans:ital@1&family=Edu+SA+Beginner:wght@500&family=Gentium+Plus:ital@1&family=Graduate&family=Indie+Flower&family=Kanit&family=Montserrat:wght@600&family=Nuosu+SIL&family=Pacifico&family=Source+Serif+Pro:ital,wght@1,600&display=swap');
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Edu SA Beginner', cursive;
+
+}
+
+ h1 {
+  margin:5px;
+  color: #686AAC;
+}
+input {
+  border-radius: 5px;
+  height: 50px;
+  font-size:30px;
+}
+.card {
+  overflow: scroll;
+  width: 30vw;
+  height: 480px;
+  background-color: #686AAC;
+  color:white;
+  font-size: 25px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+
+}
